@@ -1,10 +1,12 @@
 # Executive Summary: Comprehensive Automotive Market Analysis
+* https://datastudio.google.com/reporting/7c77cb54-469b-4707-8d61-cac540ae6b61
 
 The market is brutally dominated by low-margin Asian manufacturers **(Toyota: $32$ units, Nissan: $18$ units).** If your strategy is to build or source cheap, mass-market cars, you will be crushed by their operational efficiencies.
 
 * The average vehicle price across this $n = 205$ dataset is $\mu = \$13,207.13$, heavily skewed by a massive graveyard of cheap hatchbacks averaging a meager $\mu_{hatch} = \$9,957.44$.
 * There is a powerful linear correlation of $r = 0.81$ between horsepower and price. The margin is entirely concentrated in high-horsepower segments. Premium tiers like Jaguar ($\$34,600.00$) and Mercedes-Benz ($\$33,647.00$) hold the actual pricing power.
-* Over $28\%$ of the fleet ($59$ units) falls into high-risk insurance categories (Symboling ratings of $+2$ or $+3$). You are likely underestimating the compliance and insurance liabilities attached to these profiles. 
+* Over $28\%$ of the fleet ($59$ units) falls into high-risk insurance categories (Symboling ratings of $+2$ or $+3$). You are likely underestimating the compliance and insurance liabilities attached to these profiles.
+
 
 <img width="1075" height="807" alt="image" src="https://github.com/user-attachments/assets/33cf573a-4f0d-4cb2-b731-9e4db2666821" />
 
