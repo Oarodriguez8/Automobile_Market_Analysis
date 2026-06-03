@@ -1,5 +1,4 @@
 # Executive Summary: Comprehensive Automotive Market Analysis
-* https://datastudio.google.com/reporting/7c77cb54-469b-4707-8d61-cac540ae6b61
 
 The market is brutally dominated by low-margin Asian manufacturers **(Toyota: $32$ units, Nissan: $18$ units).** If your strategy is to build or source cheap, mass-market cars, you will be crushed by their operational efficiencies.
 
